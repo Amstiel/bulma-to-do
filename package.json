@@ -1,0 +1,9 @@
+{
+  "name": "bulma-to-do-list",
+  "version": "1.0.0",
+  "description": "Simple app using Bulma, Buefy and Vue",
+  "main": "index.js",
+  "repository": "git@github.com:Amstiel/bulma-to-do.git",
+  "author": "Alexey Kunitsky",
+  "license": "MIT"
+}

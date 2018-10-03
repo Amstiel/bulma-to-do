@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\AKunitskiy\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\tools\cmder\bin;C:\tools\cmder\vendor\conemu-maximus5\ConEmu\Scripts;C:\tools\cmder\vendor\conemu-maximus5;C:\tools\cmder\vendor\conemu-maximus5\ConEmu;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\AKunitskiy\AppData\Local\Yarn\bin;C:\tools\php71;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Microsoft VS Code\bin;C:\Users\AKunitskiy\AppData\Local\Microsoft\WindowsApps;C:\tools\cmder;C:\Users\AKunitskiy\AppData\Roaming\npm;C:\Users\AKunitskiy\AppData\Roaming\Composer\vendor\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\share\vim\vim74;C:\tools\cmder\
+
+Yarn version: 
+  1.10.1
+
+Node version: 
+  9.11.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\AKunitskiy\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:116426:13)
+      at Interface.emit (events.js:180:13)
+      at Interface._ttyWrite (readline.js:783:16)
+      at ReadStream.onkeypress (readline.js:163:10)
+      at ReadStream.emit (events.js:180:13)
+      at emitKeys (internal/readline.js:422:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1019:36)
+      at ReadStream.emit (events.js:180:13)
+      at addChunk (_stream_readable.js:274:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
